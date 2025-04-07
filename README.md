@@ -3,7 +3,7 @@
 I'm a CS student passionate about website development.
 
 ## Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=lananhnvo&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lananhnvo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lananhnvo/lananhnvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
